@@ -1,7 +1,7 @@
 Write a C program to evaluate Arithmetic expression using stack. 
 
 Algorithm:
-Code:
+Code: 
 
 #include <ctype.h>
 
