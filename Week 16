@@ -2,7 +2,7 @@ Write a C program to create a hash table and perform collision resolution using 
 Open addressing
 Closed Addressing
 Rehashing 
-
+ 
 
 Algorithm:
 CODE:
