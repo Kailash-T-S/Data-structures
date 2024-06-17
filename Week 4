@@ -1,6 +1,6 @@
 Write a C program to implement a stack using Array and linked List implementation and execute the following operation on stack.
 
-
+ 
 Push an element into a stack
 Pop an element from a stack
 Return the Top most element from  a stack
