@@ -1,7 +1,7 @@
 Write a function in C program to insert a new node with a given value into an AVL tree. Ensure that the tree remains balanced after insertion by performing rotations if necessary. Repeat the above operation to delete a node from AVL tree. 
 
 Algorithm:
-   CODE:-
+   CODE:- 
 
 #include <stdio.h>
 #include <stdlib.h>
