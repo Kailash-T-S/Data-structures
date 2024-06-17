@@ -2,7 +2,7 @@ Write a C program to perform infix to postfix conversion using stack.
 
 Algorithm:
 Code:
-
+ 
 
 #include <stdio.h>
 #include <stdlib.h>
