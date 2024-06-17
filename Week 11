@@ -2,7 +2,7 @@ Write a C program to create a graph and perform a Breadth First Search and Depth
 
 Algorithm:
 
-CODE:-
+CODE:- 
 
 //BFS
 #include <stdio.h>
