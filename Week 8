@@ -2,7 +2,7 @@ Write a C program to implement a Binary tree and perform the following tree trav
 Inorder Traversal
 Preorder Traversal
 Postorder Traversal
-
+ 
   Algorithm:
    CODE:-
    #include <stdio.h>
