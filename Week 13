@@ -1,5 +1,5 @@
 Write a C program to create a graph and find a minimum spanning tree using prims algorithm. 
-
+ 
 Algorithm:
 CODE:
 #include <stdio.h>
